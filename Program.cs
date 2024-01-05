@@ -5,8 +5,8 @@ using System.Drawing;
 var img1 = System.Drawing.Image.FromFile(@"\images\DSC_3433.JPG");
 var img2 = System.Drawing.Image.FromFile(@"\images\DSC_3439.JPG");
 
-var resizedImg1 = $@"K:\InnoTechs\ImagResizer\images\{Guid.NewGuid()}DSC_3433.JPG";
-var resizedImg2= $@"K:\InnoTechs\ImagResizer\images\{Guid.NewGuid()}DSC_3439.JPG";
+var resizedImg1 = $@"\images\{Guid.NewGuid()}DSC_3433.JPG";
+var resizedImg2= $@"\images\{Guid.NewGuid()}DSC_3439.JPG";
 
 Resizer.Rotate(img1);
 Resizer.Rotate(img2);
