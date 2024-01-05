@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9GXyuDXgvx1/LTPWpsBljqPPcHdErNj9xTTiEhF9XKqe3PaU2eUmSbT2d1xwZVC5QWIPadrUKPCg4mgpwFt6wg==",
+  "success": true,
+  "projectFilePath": "C:\\GitApps\\ImageResizer\\ImagResizer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fatih\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\Fatih\\.nuget\\packages\\system.drawing.common\\8.0.0\\system.drawing.common.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
